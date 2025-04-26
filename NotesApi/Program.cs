@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using NotesApi;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
@@ -46,9 +47,3 @@ app.MapDelete("/notes/{id}", (int id) =>
 
 app.Run();
 
-public class Note
-{
-    public int Id { get; set; }
-    public string Title { get; set; }
-    public string Content { get; set; }
-}

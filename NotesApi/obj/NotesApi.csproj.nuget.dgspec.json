@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sumitakoliya/Developer/DotNet/NotesApi/NotesApi.csproj": {}
+    "/Users/sumitakoliya/Developer/DotNet/MyNotes/NotesApi/NotesApi.csproj": {}
   },
   "projects": {
-    "/Users/sumitakoliya/Developer/DotNet/NotesApi/NotesApi.csproj": {
+    "/Users/sumitakoliya/Developer/DotNet/MyNotes/NotesApi/NotesApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sumitakoliya/Developer/DotNet/NotesApi/NotesApi.csproj",
+        "projectUniqueName": "/Users/sumitakoliya/Developer/DotNet/MyNotes/NotesApi/NotesApi.csproj",
         "projectName": "NotesApi",
-        "projectPath": "/Users/sumitakoliya/Developer/DotNet/NotesApi/NotesApi.csproj",
+        "projectPath": "/Users/sumitakoliya/Developer/DotNet/MyNotes/NotesApi/NotesApi.csproj",
         "packagesPath": "/Users/sumitakoliya/.nuget/packages/",
-        "outputPath": "/Users/sumitakoliya/Developer/DotNet/NotesApi/obj/",
+        "outputPath": "/Users/sumitakoliya/Developer/DotNet/MyNotes/NotesApi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sumitakoliya/.nuget/NuGet/NuGet.Config"
